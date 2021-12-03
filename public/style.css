@@ -1,0 +1,52 @@
+body{
+    background-color:#E6F2FE ;
+}
+.logobg{
+    background-color: #ff6a00;
+}
+.textcol{
+    color: #333;
+}
+.pricecol{
+    color: #666;
+}
+.background{
+    background-color: #E6F2FE;
+}
+.fonts{
+    color: #666;
+    font-size: 12px;
+}
+.bwhite{
+    background-color: white;
+}
+.markets{
+    border: none;
+    border-bottom: 2px solid rgba(230, 197, 230, 0.3);
+}
+.borders{
+    border: none;
+    border-radius: 10px;
+}
+.fon{
+    color: #666;
+    font-size: 14px;
+    
+}
+.first{
+    border-bottom: 1px solid rgba(173, 114, 171, 0.2);
+}
+.lastbg{
+    background-color: rgba(94, 23, 94, 0.7);
+}
+.place::placeholder{
+    background-color:rgba(8, 7, 8, 0.9) ;
+    
+}
+.textcol2{
+    color: #333;
+    font-size: 10px;
+}
+.lfonts{
+    font-size: 12px;
+}
