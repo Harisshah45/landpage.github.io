@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    text-align: center;
+}
+.nav{
+    background-color: teal;
+    color: white;
+    padding:10px;
+}
+a{
+    color: white;
+    padding: 30px;
+    
+}
+
+span{
+    color: blue;
+}
+
+
+.pthree{
+    text-align: left;
+    color: rgb(148, 170, 211);
+    font-family: serif;
+}
+a{
+    text-decoration: none;
+}
+.learn{
+    color: blueviolet;
+}
+.divfour{
+    background-color: crimson;
+}
+.learn1{
+    text text-decoration: none;
+}
+.more{
+    color: blueviolet;
+}
+.order{
+    color: blueviolet;
+}
+.table{
+    text-align: left;
+    letter-spacing: 0.3em;
+    
+}
+.para{
+    background-color: rgb(235, 227, 241);
+
+}
+.buttom{
+    background-color: rgb(235, 227, 241);
+    font-size: small;
+    
+}

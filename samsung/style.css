@@ -1,0 +1,205 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    
+}
+.container{
+    width: 100%;
+    margin: auto;
+
+}
+
+li{
+    padding: 15px;
+    display: inline;
+    border: none;
+    border-radius: 10px;
+    
+}
+b{
+    font-size: xx-large;
+}
+li:hover{
+    background-color: black;
+    color: white;
+}
+.icon{
+    width: 35px;
+}
+.bgimg{
+   background-image: url(./images/bgimg.png);
+    height: 400px;
+    background-size: cover;
+    color: white;
+    padding: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+
+}
+button{
+   background-color: white;
+   color: black;
+    border: none;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+.hone{
+    text-align: center;
+
+}
+.link{
+    text-align: center;
+}
+.middle{
+    background-color: thistle;
+}
+#bigimg{
+    width: 50%;
+    border: none;
+    border-radius: 15px;
+    margin-left: 10px;
+   
+    
+}
+
+.hfour{
+    font-size: xx-large;
+   
+}
+.link3>#li{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.img9{
+    margin-left: 50px;
+}
+.third{
+    text-align: center;
+    
+}
+.fourth{
+    background-image: url(./images/img11.jpg);
+    height: 500px;
+    text-align: center;
+    padding: 10px;
+    word-spacing: 15px;
+
+}
+.hfive{
+    color: white;
+    text-align: center;
+}
+#neo{
+    color: white;
+    text-align: center;
+}
+#qled{
+    color: white;
+    text-align: center;
+}
+#uhd{
+    color: white;
+    text-align: center;
+}
+.five{
+    text-align: center;
+    margin-left: 10px;
+
+}
+.height{
+    font-size: x-large;
+}
+#fridge{
+    color: black;
+}
+#fri{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.hsix{
+    font-size: x-large;
+}
+.hseven{
+    word-spacing: 20px;
+}
+.content1{
+    
+    width: 50%;
+    height: 600px;
+    float: left;
+}
+#sideimg{
+    width: 90%;
+    margin-left: 20px;
+    border: none;
+    border-radius: 15px;
+}
+.content2{
+    
+    width: 50%;
+    height: 600px;
+    float: left;
+
+}
+.side {
+    padding: 20px;
+    font-size: x-large;
+
+}
+
+.footer{
+    text-align: center;
+
+}
+.sbar{
+    text-align: center;
+}
+#bar{
+    width: 30%;
+    height: 30px;
+    font-size: large;
+    margin-top: -15px;
+    border-radius: 15px;
+}
+.btn{
+    text-align: center;
+}
+.btn2{
+    text-align: center;
+    margin-top: -10px;
+}
+.para{
+    color: rgb(131, 121, 131);
+    margin: 10px;
+    margin-top: -5px;
+    font-size: small;
+    padding: 10px;
+}
+.table{
+    
+    text-align: center;
+    margin: 10px;
+    padding: 200px;
+   font-size: small;
+    
+}
+td{
+    padding: 30px;
+    margin-left: 20px;
+}
+.last{
+    margin-top: -10px;
+    margin-left: 15px;
+    font-size: small;
+    word-spacing: 20px;
+}
+span{
+    font-weight: bold;
+}
